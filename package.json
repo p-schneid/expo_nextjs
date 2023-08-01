@@ -15,7 +15,7 @@
     "start": "next dev",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web",
+    "web": "next dev -p 3001",
     "build": "next build"
   },
   "name": "expo_nextjs",
